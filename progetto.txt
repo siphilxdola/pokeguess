@@ -1,0 +1,15 @@
+Es1
+
+1. Ci sono una carta scelta randomicamente e 4 scelte. Il giocatore dovrà indovinare il nome corretto del Pokémon mostrato
+2. una di queste scelte (chosen randomly) contiene il vero nome del Pokémon
+3. non ci sono ripetizioni delle carte (turno ripetuto) ma dei nomi si (Charizard può uscire più volte come scelta)
+4. c'è un timer di 60 secondi e per ogni risposta sbagliata viene tolto un secondo (con animazione rossa della scelta- verde se corretta)
+5. scattati gli 0 secondi, verrà mostrata una domanda extra (bisogna collegare i stili di Furfrou al loro rispettivo nome - domanda scriptata senza dimostrazione risposta corretta)
+
+Es2
+
+1. Ci sono una carta scelta randomicamente e 4 scelte. Il giocatore dovrà indovinare il nome corretto del Pokémon mostrato
+2. una di queste scelte (chosen randomly) contiene il vero nome del Pokémon
+3. non ci sono ripetizioni delle carte (turno ripetuto)
+4. c'è un timer di 60 secondi e per ogni risposta sbagliata viene tolto un secondo (con animazione rossa della scelta- verde se corretta)
+5. turni interamente scriptati, con quattro nomi che variano minimamente l'uno dall'altro per ogni Pokémon
